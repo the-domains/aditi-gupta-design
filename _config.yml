@@ -1,0 +1,28 @@
+name: Aditi Gupta Design
+favicon: null
+layout_spectrum: 0.42484517162665725
+typography_spectrum: 0.9282605138141662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5216017067432404
+  lightness: 0.544474242022261
+  saturation: 0.8314214868005365
+  rhythmicContrast: 0.6685922350734472
+purpose: []
