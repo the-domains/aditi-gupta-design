@@ -1,6 +1,6 @@
 name: Aditi Gupta Design
 favicon: null
-layout_spectrum: 0.75617
+layout_spectrum: 0.92233
 typography_spectrum: 0.50358
 title: ' Aditi Gupta Design is a luxury Residential Interior Design Firm'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6f7da2'
     - '#070302'
   brandStrength: 0.75
-  lightness: 0.5
+  lightness: 0.375
   saturation: 0.8314214868005365
   rhythmicContrast: 0.6685922350734472
 purpose: []
